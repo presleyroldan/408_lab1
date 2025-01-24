@@ -27,3 +27,13 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## Sources
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes
+
+https://www.w3schools.com/cssref/sel_hover.php
+
+https://www.w3schools.com/js/js_popup.asp
+
+
